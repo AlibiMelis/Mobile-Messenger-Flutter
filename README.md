@@ -1,6 +1,10 @@
-# mobile_messenger_flutter
+# Mobile Messenger
 
-A new Flutter project.
+A new Flutter project. Mobile messenger on Flutter. 
+
+Versions:
+Flutter 2.8.0 • channel stable
+Tools • Dart 2.15.0
 
 ## Getting Started
 
